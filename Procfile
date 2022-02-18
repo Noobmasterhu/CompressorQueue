@@ -1,0 +1,1 @@
+worker: shell run.sh
